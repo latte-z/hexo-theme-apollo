@@ -1,16 +1,17 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    Weibo: https://www.weibo.com/lattezforever
+    GitHub: https://github.com/latte-z
     Rss: /atom.xml
+    #About: /about
 
 favicon: /favicon.png
 logo: /favicon.png
 
 # Comment
 # e.g disqus: seansun
-disqus:
+disqus: lattez
 duoshuo:
 
 # Analytics
@@ -18,4 +19,4 @@ duoshuo:
 # ga: UA-xxxxxxxx-x
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2013
